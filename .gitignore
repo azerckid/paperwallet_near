@@ -1,0 +1,14 @@
+# Project-level documentation and logs
+DEVELOPMENT_GUIDE.md
+GEMINI.md
+LOCAL_SUPABASE_GUIDE.md
+*PROJECT_PLAN.md
+TODO_LIST.md
+WORK_SUMMARY.md
+WORK_LOG_*.md
+
+# Rust build artifacts
+target/
+
+# macOS system file
+.DS_Store
